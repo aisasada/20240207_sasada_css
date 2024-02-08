@@ -40,10 +40,11 @@
 
 .main__ttl{
   position: absolute;
-  bottom: 5%;
+  bottom: 16%;
   font-size: 70px;
   font-weight: 400;
   z-index: 0;
+  margin: 0;
 }
 
 .main__box{
